@@ -10,7 +10,7 @@ Lets get started🤝.
 * Why explainability is needed in ML? 
 * When, and where it is needed? 
 
-All of the above question are well answered in the 1st part of the series of 'Explainable-ML' series/talk by HIMA LAKKARAJU at Stanford recently. 
+All of the above question are well answered in the 1st part of the series.
 
 So, the interpretable models are not always required; 
 Some of the high staked decision models which can affect the human lives/finance/health are some of the areas where, the interpretability of model plays an essential role. 
