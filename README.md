@@ -1,8 +1,6 @@
 # Explainable-ML
 
-Hola😇, 
-
-In this repo, i have listed down some of the important topics (with a little explanation) that has been touched down in the video of **HIMA LAKKARAJU seminar At Stanford on "Explainable ML".**
+😇 In this repo, i have listed down some of the important topics (with a little explanation) that has been touched down in the video of **HIMA LAKKARAJU seminar At Stanford on "Explainable ML".**
 
 Lets get started🤝. 
 
