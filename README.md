@@ -102,10 +102,10 @@ One solution that Hima has shown at the end of the seminar was a chatbot through
 ______________________________________________________________________________________________________________________________________________________________________
 
 **Important links:** 
-* Video: 
-* Slides: 
+* Video: https://www.youtube.com/playlist?list=PLoROMvodv4rPh6wa6PGcHH6vMG9sEIPxL
+* Slides: https://docs.google.com/presentation/d/1khY_li29A5aUo_cEVRsvO8pcRn7Xp9Bi/edit#slide=id.p1
 
-**Reference article used in seminar:**
+**That's all for this repo. But the learning and research for all the open questions around interpretability of the ML models starts!!**
 
 
 
